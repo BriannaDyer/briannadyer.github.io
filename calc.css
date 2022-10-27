@@ -1,0 +1,22 @@
+
+.bg-dark {
+     background-image: url(this.webp);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+h1 {
+    color:  rgb(255, 146, 182);
+    -webkit-text-stroke: 4px;
+    -webkit-text-stroke-color: rgb(165, 88, 236);
+    letter-spacing: 12px;
+}
+
+.input-group{
+    color:blueviolet;
+    font-size: 25px;
+}
+
+.input-group-addon{
+    background-color: rgb(215, 188, 240);
+}
